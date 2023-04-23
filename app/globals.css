@@ -1,0 +1,5 @@
+@import url('https://fonts.googleapis.com/css2?family=Great+Vibes&family=Poppins:wght@300&family=Zeyada&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@300&family=Rancho&display=swap');
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
